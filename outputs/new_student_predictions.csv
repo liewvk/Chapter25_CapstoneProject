@@ -1,0 +1,4 @@
+StudyHours,Attendance,AssignmentScore,PracticeScore,PredictedFinalScore,PredictedResult,PassProbability
+6,78,70,72,73.7,Pass,100.0
+3,58,45,42,47.61,Fail,7.0
+9,94,90,92,93.31,Pass,100.0

@@ -1,0 +1,9 @@
+StudyHours,Attendance,AssignmentScore,PracticeScore,ActualFinalScore,PredictedFinalScore,AbsoluteError
+5,68,57,54,59,59.53,0.53
+2,52,38,35,40,40.69,0.69
+2,48,36,34,39,38.77,0.23
+5,70,60,62,65,64.08,0.92
+10,96,92,94,95,95.62,0.62
+1,50,35,30,36,36.87,0.87
+10,98,96,97,98,98.72,0.72
+9,97,94,95,96,96.6,0.6

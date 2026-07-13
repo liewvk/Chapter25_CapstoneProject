@@ -1,0 +1,9 @@
+StudyHours,Attendance,AssignmentScore,PracticeScore,ActualResult,PredictedResult
+9,97,94,95,Pass,Pass
+7,85,76,78,Pass,Pass
+6,79,69,70,Pass,Pass
+5,75,58,55,Pass,Pass
+3,57,44,43,Fail,Fail
+5,68,57,54,Pass,Pass
+6,82,70,72,Pass,Pass
+3,58,48,46,Fail,Fail
